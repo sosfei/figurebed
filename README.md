@@ -1,2 +1,2 @@
 # FigureBed
-## PicGo
+### Use PicGo
