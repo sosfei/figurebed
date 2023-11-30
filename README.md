@@ -1,1 +1,2 @@
-# figurebed
+# FigureBed
+## PicGo
